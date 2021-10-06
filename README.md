@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AB9691
 - 👀 I’m interested in ...python,software devlopment
-- 🌱 I’m currently learning ...graduation 2nd yea
+- 🌱 I’m currently learning ...graduation 2nd year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
